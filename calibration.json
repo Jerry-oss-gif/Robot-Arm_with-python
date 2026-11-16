@@ -1,0 +1,26 @@
+[
+  {
+    "servo_id": 1,
+    "name": "shoulder_pan",
+    "sign": 1,
+    "zero_ticks": 800
+  },
+  {
+    "servo_id": 2,
+    "name": "shoulder_lift",
+    "sign": 1,
+    "zero_ticks": 179
+  },
+  {
+    "servo_id": 3,
+    "name": "elbow_flex",
+    "sign": 1,
+    "zero_ticks": 2805
+  },
+  {
+    "servo_id": 4,
+    "name": "wrist_flex",
+    "sign": 1,
+    "zero_ticks": 3011
+  }
+]
